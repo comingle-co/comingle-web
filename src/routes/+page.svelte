@@ -1,12 +1,12 @@
 <script>
-	import Counter from './Counter.svelte';
+	/*import Counter from './Counter.svelte';*/
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Home - Confstr</title>
+	<meta name="description" content="Conference app powered by Nostr" />
 </svelte:head>
 
 <section>
@@ -18,14 +18,14 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to Confstr
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		Confstr is a conference app powered by Nostr.
 	</h2>
 
-	<Counter />
+	<!-- <Counter /> -->
 </section>
 
 <style>
