@@ -33,5 +33,10 @@
 		"vite": "^4.3.0",
 		"vitest": "^0.25.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@noble/secp256k1": "^1.7.1",
+		"@nostr-dev-kit/ndk": "^0.3.22",
+		"@rgossiaux/svelte-headlessui": "^1.0.2"
+	}
 }
