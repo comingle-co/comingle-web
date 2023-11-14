@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>About - Confstr</title>
+  <title>About - Comingle</title>
   <meta name="description" content="About this app" />
 </svelte:head>
 
@@ -7,10 +7,10 @@
   <h1>About this app</h1>
 
   <p>
-    Confstr is a conference app powered by <a href="https://github.com/nostr-protocol/nostr"
+    Comingle is a conference app powered by <a href="https://github.com/nostr-protocol/nostr"
       >Nostr</a
     >. It is currently under development. You can follow development on
-    <a href="https://github.com/confstr-app">GitHub</a>.
+    <a href="https://github.com/comingle-co">GitHub</a>.
   </p>
 
   <p>Goals</p>

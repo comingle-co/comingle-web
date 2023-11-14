@@ -32,7 +32,7 @@
   </nav>
 
   <div class="corner">
-    <a href="https://github.com/confstr-app">
+    <a href="https://github.com/comingle-co">
       <img src={github} alt="GitHub" />
     </a>
   </div>

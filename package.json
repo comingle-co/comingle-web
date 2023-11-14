@@ -1,5 +1,5 @@
 {
-	"name": "confstr-web",
+	"name": "comingle-web",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",

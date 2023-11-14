@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Home - Confstr</title>
+  <title>Home - Comingle</title>
   <meta name="description" content="Conference app powered by Nostr" />
 </svelte:head>
 
@@ -18,10 +18,10 @@
       </picture>
     </span>
 
-    to Confstr
+    to Comingle
   </h1>
 
-  <h2>Confstr is a conference app powered by Nostr.</h2>
+  <h2>Comingle is a conference app powered by Nostr.</h2>
 
   <!-- <Counter /> -->
 </section>
